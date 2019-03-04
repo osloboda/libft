@@ -6,7 +6,7 @@
 #    By: osloboda <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/10/26 21:18:49 by osloboda          #+#    #+#              #
-#    Updated: 2019/02/24 13:24:04 by osloboda         ###   ########.fr        #
+#    Updated: 2019/03/04 13:13:13 by osloboda         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -23,7 +23,8 @@ ft_strsplit.c ft_itoa.c ft_putchar.c ft_putstr.c ft_putendl.c ft_putnbr.c \
 ft_putchar_fd.c ft_putstr_fd.c ft_putendl_fd.c ft_putnbr_fd.c ft_lstnew.c \
 ft_lstdelone.c ft_lstdel.c ft_lstadd.c ft_lstiter.c ft_lstmap.c ft_fprime.c \
 ft_rev_wstr.c ft_search_and_replace.c ft_print_bits.c ft_reverse_bits.c \
-ft_swap.c ft_new_strjoin.c get_next_line.c 
+ft_swap.c ft_new_strjoin.c get_next_line.c createfield.c cstr.c fill.c \
+fitoa.c fts.c powitoab.c precision.c taketype.c ft_printf.c
 
 OBJ = $(SRC:.c=.o)
 
